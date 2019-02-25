@@ -25,3 +25,6 @@ public void onRequestPermissionsResult(int requestCode,
        }
    }
 }
+______________________________________________________________________
+main command:
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
